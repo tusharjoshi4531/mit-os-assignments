@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     a.out
+relocations:
+  - { offset: 0x1DA, size: 0x8, addend: 0x0, symName: _locks, symObjAddr: 0x64EA8, symBinAddr: 0x100069AB8, symSize: 0x0 }
+  - { offset: 0x233, size: 0x8, addend: 0x0, symName: _table, symObjAddr: 0x64E80, symBinAddr: 0x100069A90, symSize: 0x0 }
+  - { offset: 0x258, size: 0x8, addend: 0x0, symName: _keys, symObjAddr: 0x33FC, symBinAddr: 0x10000800C, symSize: 0x0 }
+  - { offset: 0x26E, size: 0x8, addend: 0x0, symName: _nthread, symObjAddr: 0x680, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x284, size: 0x8, addend: 0x0, symName: _done, symObjAddr: 0x33F8, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offset: 0x29E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x460, symBinAddr: 0x100003AC0, symSize: 0x218 }
+  - { offset: 0x32A, size: 0x8, addend: 0x0, symName: ___func__.0, symObjAddr: 0x678, symBinAddr: 0x100003E80, symSize: 0x0 }
+  - { offset: 0x395, size: 0x8, addend: 0x0, symName: _thread, symObjAddr: 0x0, symBinAddr: 0x100003760, symSize: 0x320 }
+  - { offset: 0x6AE, size: 0x8, addend: 0x0, symName: _now, symObjAddr: 0x320, symBinAddr: 0x100003A80, symSize: 0x40 }
+...
