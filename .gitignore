@@ -1,2 +1,3 @@
 *.out
 xv6-riscv
+.vscode
