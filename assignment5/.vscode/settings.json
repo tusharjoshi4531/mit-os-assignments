@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "vector": "c",
+    "format": "c",
+    "thread": "c",
+    "ostream": "c",
+    "print": "c",
+    "exception": "c",
+    "memory_resource": "c",
+    "iosfwd": "c",
+    "new": "c",
+    "sstream": "c",
+    "stop_token": "c",
+    "streambuf": "c"
+  }
+}
